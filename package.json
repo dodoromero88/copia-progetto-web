@@ -22,7 +22,7 @@
   "homepage": "https://github.com/eduardo1988/progetto_web_app#readme",
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "bootstrap": "^4.3.1",
     "cookie-parser": "^1.4.4",
     "cookie-session": "^2.0.0-beta.3",
@@ -31,7 +31,7 @@
     "ejs": "^2.6.1",
     "ejs-locals": "^1.0.2",
     "elegant-icons": "0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-partials": "^0.3.0",
     "express-session": "^1.15.6",
     "firebase": "^8.2.7",
